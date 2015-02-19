@@ -13,6 +13,6 @@ An introduction to Python with a gentler learning curve.
 
 An interactive tutorial for learning the basics of Python. (I recommend trying the books above first, as learning to use an IDE such as IDLE is an important part of the learning curve.)
 
-### [Intro to Python slideshow])(https://onedrive.live.com/embed?cid=BE621B7576D48090&resid=BE621B7576D48090%21107&authkey=ALsfz0QwejBNUZ8&em=2)
+### [Intro to Python slideshow](https://onedrive.live.com/embed?cid=BE621B7576D48090&resid=BE621B7576D48090%21107&authkey=ALsfz0QwejBNUZ8&em=2)
 
 A slideshow that covers the basic concepts introduced in the Intro Python workshop
