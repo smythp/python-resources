@@ -16,3 +16,8 @@ An interactive tutorial for learning the basics of Python. (I recommend trying t
 ### [Intro to Python slideshow](https://onedrive.live.com/embed?cid=BE621B7576D48090&resid=BE621B7576D48090%21107&authkey=ALsfz0QwejBNUZ8&em=2)
 
 A slideshow that covers the basic concepts introduced in the Intro Python workshop
+
+### [Straightforward Python](https://www.youtube.com/watch?v=5ZOWDJyMq2Y)
+
+A video series covering many of the same concepts demonstrated in the workshop. Still under development.
+
