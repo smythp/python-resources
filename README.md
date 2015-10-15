@@ -1,6 +1,8 @@
 
 ## Python resources
 
+### [Intro workshop review](https://github.com/smythp/python-workshop/blob/master/.ipynb_checkpoints/workshop-checkpoint.ipynb)
+
 ### [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
 
 A quick introduction to Python that doesn't do a lot of hand-holding. 
